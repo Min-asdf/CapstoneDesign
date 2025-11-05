@@ -12,3 +12,8 @@
 모델명: Hunyuan 3D-2
 다운로드 링크: https://github.com/kijai/ComfyUI-Hunyuan3DWrapper
 저장 위치: ComfyUI/models/custom_nodes/
+
+//
+모델명: RealESRGAN
+다운로드 링크: https://huggingface.co/ac-pill/upscale_models/tree/main
+저장 위치: ComfyUI/models/custom_nodes/
