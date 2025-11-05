@@ -1,9 +1,14 @@
 //체크포인트 (Checkpoint):
 모델명: Pony Diffusion V6 XL
-다운로드 링크: [https://civitai.com/models/257749/pony-diffusion-v6-xl](https://civitai.com/models/257749/pony-diffusion-v6-xl)
+다운로드 링크: https://civitai.com/models/257749/pony-diffusion-v6-xl (https://huggingface.co/LyliaEngine/Pony_Diffusion_V6_XL/tree/main)
 저장 위치: ComfyUI/models/checkpoints/
 
 //ControlNet (OpenPose):
 모델명: T2I-Adapter OpenPose SDXL
-다운로드 링크: [https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0/blob/main/OpenPose-sdxl-1.0.safetensors](https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0/blob/main/OpenPose-sdxl-1.0.safetensors)
+다운로드 링크: https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0/blob/main/OpenPose-sdxl-1.0.safetensors (https://huggingface.co/TencentARC/t2i-adapter-openpose-sdxl-1.0/tree/main)
 저장 위치: ComfyUI/models/controlnet/
+
+//
+모델명: Hunyuan 3D
+다운로드 링크: https://github.com/kijai/ComfyUI-Hunyuan3DWrapper
+저장 위치: ComfyUI/models/custom_nodes/
