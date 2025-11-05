@@ -1,0 +1,9 @@
+//체크포인트 (Checkpoint):
+모델명: Pony Diffusion V6 XL
+다운로드 링크: [https://civitai.com/models/257749/pony-diffusion-v6-xl](https://civitai.com/models/257749/pony-diffusion-v6-xl)
+저장 위치: ComfyUI/models/checkpoints/
+
+//ControlNet (OpenPose):
+모델명: T2I-Adapter OpenPose SDXL
+다운로드 링크: [https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0/blob/main/OpenPose-sdxl-1.0.safetensors](https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0/blob/main/OpenPose-sdxl-1.0.safetensors)
+저장 위치: ComfyUI/models/controlnet/
