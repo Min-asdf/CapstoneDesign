@@ -1,6 +1,11 @@
-//체크포인트 (Checkpoint):
+//체크포인트 (Checkpoint)
 모델명: Pony Diffusion V6 XL
 다운로드 링크: https://civitai.com/models/257749/pony-diffusion-v6-xl (https://huggingface.co/LyliaEngine/Pony_Diffusion_V6_XL/tree/main)
+저장 위치: ComfyUI/models/checkpoints/
+
+//체크포인트 (Checkpoint)
+모델명: dreamshaper_8
+다운로드 링크: https://huggingface.co/autismanon/modeldump/blob/main/dreamshaper_8.safetensors
 저장 위치: ComfyUI/models/checkpoints/
 
 //ControlNet (OpenPose):
