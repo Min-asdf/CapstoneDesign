@@ -17,3 +17,8 @@
 모델명: RealESRGAN
 다운로드 링크: https://huggingface.co/ac-pill/upscale_models/tree/main
 저장 위치: ComfyUI/models/custom_nodes/
+
+//
+모델명: SD1.5
+다운로드 링크: https://huggingface.co/autismanon/modeldump/tree/main
+저장 위치: ComfyUI/models/checkpoints/
