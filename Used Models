@@ -8,17 +8,12 @@
 다운로드 링크: https://huggingface.co/Lykon/dreamshaper-xl-lightning/tree/main
 저장 위치: ComfyUI/models/checkpoints/
 
-//
-모델명: SD1.5
-다운로드 링크: https://huggingface.co/autismanon/modeldump/tree/main
-저장 위치: ComfyUI/models/checkpoints/
-
 // ControlNet (OpenPose)
 모델명: T2I-Adapter OpenPose SDXL
 다운로드 링크: https://huggingface.co/TencentARC/t2i-adapter-openpose-sdxl-1.0/tree/main
 저장 위치: ComfyUI/models/controlnet/
 
-// ControlNet (OpenPose)
+// ControlNet (OpenPose) - 미사용
 모델명: openpose SDXL
 다운로드 링크: https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main
 저장 위치: ComfyUI/models/controlnet/
@@ -32,5 +27,3 @@
 모델명: RealESRGAN
 다운로드 링크: https://huggingface.co/ac-pill/upscale_models/tree/main
 저장 위치: ComfyUI/models/custom_nodes/
-
-
