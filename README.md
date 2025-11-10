@@ -1,4 +1,4 @@
-# 🔧 프로젝트 문제 해결 (Troubleshooting)
+# 프로젝트 문제 해결
 
 이 프로젝트는 `ComfyUI-Hunyuan3DWrapper` 커스텀 노드를 ComfyUI Portable 환경에 설치하고 실행하는 과정에서 발생한 기술적 문제와 해결 과정을 기록합니다.
 
