@@ -9,7 +9,7 @@
 저장 위치: ComfyUI/models/checkpoints/
 
 // ControlNet (OpenPose)
-모델명: T2I-Adapter OpenPose SDXL
+모델명: T2I-Adapter OpenPose SDXL (diffusion_pytorch_model)
 다운로드 링크: https://huggingface.co/TencentARC/t2i-adapter-openpose-sdxl-1.0/tree/main
 저장 위치: ComfyUI/models/controlnet/
 
