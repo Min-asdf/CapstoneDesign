@@ -16,7 +16,7 @@
 // Diffusers
 모델명: hunyuan3d-dit-v2-0-fp16.safetensors
 다운로드 링크: https://huggingface.co/Kijai/Hunyuan3D-2_safetensors/tree/main
-저장 위치: ComfyUI/models/diffusers
+저장 위치: ComfyUI/models/diffusion_models
 
 // UpScale
 모델명: RealESRGAN (RealESRGAN_x4plus_anime_6B.pth)
