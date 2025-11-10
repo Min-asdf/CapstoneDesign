@@ -1,8 +1,3 @@
-// Checkpoint - 미사용
-모델명: Pony Diffusion V6 XL
-다운로드 링크: https://huggingface.co/LyliaEngine/Pony_Diffusion_V6_XL/tree/main
-저장 위치: ComfyUI/models/checkpoints/
-
 // Checkpoint
 모델명: DreamShaperXL_Lightning.safetensors
 다운로드 링크: https://huggingface.co/Lykon/dreamshaper-xl-lightning/tree/main
@@ -11,11 +6,6 @@
 // ControlNet (OpenPose)
 모델명: T2I-Adapter OpenPose SDXL (diffusion_pytorch_model)
 다운로드 링크: https://huggingface.co/TencentARC/t2i-adapter-openpose-sdxl-1.0/tree/main
-저장 위치: ComfyUI/models/controlnet/
-
-// ControlNet (OpenPose) - 미사용
-모델명: openpose SDXL
-다운로드 링크: https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main
 저장 위치: ComfyUI/models/controlnet/
 
 // Custom Nodes
