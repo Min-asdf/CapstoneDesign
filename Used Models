@@ -26,4 +26,4 @@
 // UpScale
 모델명: RealESRGAN (RealESRGAN_x4plus_anime_6B.pth)
 다운로드 링크: https://huggingface.co/ac-pill/upscale_models/tree/main
-저장 위치: ComfyUI/models/custom_nodes/
+저장 위치: ComfyUI/models/upscale_models/
