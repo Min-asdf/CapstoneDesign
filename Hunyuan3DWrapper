@@ -1,0 +1,4 @@
+1. git clone https://github.com/kijai/ComfyUI-HunyuanVideoWrapper.git
+2. cd ComfyUI-Hunyuan3DWrapper
+3. pip install -r requirements.txt
+4. python_embeded\python.exe -m pip install ComfyUI\custom_nodes\ComfyUI-Hunyuan3DWrapper\wheels\custom_rasterizer-0.1.0+torch260.cuda126-cp312-cp312-win_amd64.whl
