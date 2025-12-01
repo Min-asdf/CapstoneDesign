@@ -16,10 +16,10 @@
 
 ## 1. 사전 요구 사항
 
-이 워크플로우의 핵심인 `Hunyuan 3D` 노드는 C++ 컴파일이 필요하므로, 다음 소프트웨어가 반드시 설치되어 있어야 합니다.
+이 워크플로우의 핵심인 `Hunyuan 3D` 노드는 C++ 컴파일이 필요하므로, 다음 소프트웨어가 설치되어 있어야 합니다.
 
 * **Visual Studio Build Tools 2022:** [다운로드](https://visualstudio.microsoft.com/ko/downloads/)
-    * 설치 시 워크로드 탭에서 "C++를 사용한 데스크톱 개발"을 반드시 체크하여 설치하세요.
+    * 설치 시 워크로드 탭에서 "C++를 사용한 데스크톱 개발"을 체크하여 설치하세요.
 * **NVIDIA CUDA Toolkit 12.1:** [다운로드](https://developer.nvidia.com/cuda-12-1-0-download-archive)
     * GPU에 맞는 버전을 설치해주세요.
 
