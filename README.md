@@ -19,7 +19,7 @@
 이 워크플로우의 핵심인 `Hunyuan 3D` 노드는 C++ 컴파일이 필요하므로, 다음 소프트웨어가 반드시 설치되어 있어야 합니다.
 
 * **Visual Studio Build Tools 2022:** [다운로드](https://visualstudio.microsoft.com/ko/downloads/)
-    * 설치 시 워크로드 탭에서 **"C++를 사용한 데스크톱 개발"**을 반드시 체크하여 설치하세요.
+    * 설치 시 워크로드 탭에서 "C++를 사용한 데스크톱 개발"을 반드시 체크하여 설치하세요.
 * **NVIDIA CUDA Toolkit 12.1:** [다운로드](https://developer.nvidia.com/cuda-12-1-0-download-archive)
     * GPU 가속을 위해 필요합니다.
 
@@ -51,8 +51,11 @@
 `Hunyuan 3D Wrapper` 노드의 핵심인 `custom_rasterizer` 모듈을 포터블 환경에서 빌드하기 위한 과정입니다.
 
 ### Step 1: 커스텀 노드 복제
-`ComfyUI/custom_nodes/` 폴더에서 터미널을 열고 아래 명령어를 실행합니다.
-git clone https://github.com/kijai/ComfyUI-Hunyuan3DWrapper
+`ComfyUI/custom_nodes/` 폴더에서 터미널을 열고 아래 명령어를 순서대로 실행합니다.
+1. git clone https://github.com/kijai/ComfyUI-Hunyuan3DWrapper
+2. cd ComfyUI-Hunyuan3DWrapper
+3. pip install -r requirements.txt
+4. python_embeded\python.exe -m pip install ComfyUI\custom_nodes\ComfyUI-Hunyuan3DWrapper\wheels\custom_rasterizer-0.1.0+torch260.cuda126-cp312-cp312-win_amd64.whl
 
 ---
 
