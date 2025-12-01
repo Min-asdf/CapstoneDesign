@@ -21,7 +21,7 @@
 * **Visual Studio Build Tools 2022:** [다운로드](https://visualstudio.microsoft.com/ko/downloads/)
     * 설치 시 워크로드 탭에서 "C++를 사용한 데스크톱 개발"을 반드시 체크하여 설치하세요.
 * **NVIDIA CUDA Toolkit 12.1:** [다운로드](https://developer.nvidia.com/cuda-12-1-0-download-archive)
-    * GPU 가속을 위해 필요합니다.(GPU에 맞는 버전을 설치해주세요.)
+    * GPU에 맞는 버전을 설치해주세요.
 
 ---
 
