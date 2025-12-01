@@ -1,7 +1,7 @@
 # 환경설정 방법
 # ComfyUI Hunyuan 3D Asset Pipeline Setup
 
-이 프로젝트는 **ComfyUI Windows Portable (Python 3.13)** 환경에서 텍스트 및 이미지를 3D 모델로 변환하는 **Hunyuan 3D** 워크플로우 구축 가이드입니다.
+이 프로젝트는 **ComfyUI Windows Portable** 환경에서 텍스트 및 이미지를 3D 모델로 변환하는 **Hunyuan 3D** 워크플로우 구축 가이드입니다.
 
 ---
 
