@@ -52,8 +52,7 @@
 
 ### Step 1: 커스텀 노드 복제
 `ComfyUI/custom_nodes/` 폴더에서 터미널을 열고 아래 명령어를 실행합니다.
-```bash
-git clone [https://github.com/kijai/ComfyUI-Hunyuan3DWrapper](https://github.com/kijai/ComfyUI-Hunyuan3DWrapper)
+git clone https://github.com/kijai/ComfyUI-Hunyuan3DWrapper
 
 ---
 
