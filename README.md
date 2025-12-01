@@ -5,16 +5,16 @@
 
 ---
 
-## 목차 (Table of Contents)
+## 목차
 
-1. [사전 요구 사항 (Prerequisites)](#1-사전-요구-사항-prerequisites)
-2. [ComfyUI 설치 (ComfyUI Installation)](#2-comfyui-설치-comfyui-installation)
-3. [모델 설치 및 파일 배치 (Model Installation)](#3-모델-설치-및-파일-배치-model-installation)
-4. [커스텀 노드 환경 설정 (Custom Node Setup)](#4-커스텀-노드-환경-설정-custom-node-setup)
+1. [사전 요구 사항](#1-사전-요구-사항)
+2. [ComfyUI 설치](#2-comfyui-설치)
+3. [모델 설치 및 파일 배치](#3-모델-설치-및-파일-배치)
+4. [커스텀 노드 환경 설정)](#4-커스텀-노드-환경-설정)
 
 ---
 
-## 1. 사전 요구 사항 (Prerequisites)
+## 1. 사전 요구 사항
 
 이 워크플로우의 핵심인 `Hunyuan 3D` 노드는 C++ 컴파일이 필요하므로, 다음 소프트웨어가 반드시 설치되어 있어야 합니다.
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 2. ComfyUI 설치 (ComfyUI Installation)
+## 2. ComfyUI 설치
 
 1.  [ComfyUI GitHub Releases](https://github.com/comfyanonymous/ComfyUI/releases) 페이지에서 최신 **Windows Portable (7z)** 파일을 다운로드합니다.
 2.  원하는 위치에 압축을 풉니다. (예: `D:\ComfyUI_windows_portable\`)
@@ -33,7 +33,7 @@
 
 ---
 
-## 3. 모델 설치 및 파일 배치 (Model Installation)
+## 3. 모델 설치 및 파일 배치
 
 아래 모델들을 다운로드하여 `ComfyUI` 내부의 지정된 경로에 배치합니다. 폴더가 없다면 생성해야 합니다.
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 4. 커스텀 노드 환경 설정 (Custom Node Setup)
+## 4. 커스텀 노드 환경 설정
 
 `Hunyuan 3D Wrapper` 노드의 핵심인 `custom_rasterizer` 모듈을 포터블 환경에서 빌드하기 위한 과정입니다.
 
