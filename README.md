@@ -21,4 +21,4 @@
 ## 2. GPU 및 드라이버 오류
 * **문제: CUDA Toolkit 미설치**
     * **증상:** `Hunyuan 3D` 노드 실행 시 CUDA 관련 오류가 발생하며 GPU를 인식하지 못했습니다.
-    * **해결:** `Hunyuan 3D` 노드는 GPU 연산을 위해 NVIDIA CUDA Toolkit이 필요합니다. 사용중읜 GPU에 맞는 CUDA Toolkit을 설치하여 시스템 환경을 구성했습니다.
+    * **해결:** `Hunyuan 3D` 노드는 GPU 연산을 위해 NVIDIA CUDA Toolkit이 필요합니다. 사용중인 GPU에 맞는 CUDA Toolkit을 설치하여 시스템 환경을 구성했습니다.
