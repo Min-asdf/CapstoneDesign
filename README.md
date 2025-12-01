@@ -5,7 +5,7 @@
 
 ---
 
-## 📋 목차 (Table of Contents)
+## 목차 (Table of Contents)
 
 1. [사전 요구 사항 (Prerequisites)](#1-사전-요구-사항-prerequisites)
 2. [ComfyUI 설치 (ComfyUI Installation)](#2-comfyui-설치-comfyui-installation)
